@@ -2579,7 +2579,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mine: {fileID: 1690147050843490, guid: 42009442dae9af14992bc3c780df067e, type: 2}
-  numberOfMinesAllowed: 10
+  numberOfMinesAllowed: 2
   mineBtn: {fileID: 1038728390434166, guid: f040c4f81d687ba40baa7acb9d9d8313, type: 2}
   btnParent: {fileID: 850717758}
 --- !u!4 &738516544
